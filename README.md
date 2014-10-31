@@ -24,3 +24,15 @@ inspired by [Carlos Icaza](http://www.carlosicaza.com/2014/07/16/swift-folder-ic
 4.	Create pull request.
 5.	?
 4.	Profit!
+
+---
+
+###Current Imagees###
+
+#####Swift#####
+
+![](https://github.com/amonshiz/foldericons/blob/master/Icons/Swift%402x.png)
+
+#####Objective C#####
+
+![](https://github.com/amonshiz/foldericons/blob/master/Icons/ObjectiveC%402x.png)
