@@ -38,4 +38,5 @@ inspired by [Carlos Icaza](http://www.carlosicaza.com/2014/07/16/swift-folder-ic
 ![](https://github.com/amonshiz/foldericons/blob/master/Icons/ObjectiveC%402x.png)
 
 #####Sketch#####
-![](https://github.com/amonshiz/foldericons/blob/sketch/Icons/Sketch%402x.png)
+
+![](https://github.com/amonshiz/foldericons/blob/master/Icons/Sketch%402x.png)
