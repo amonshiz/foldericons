@@ -27,7 +27,7 @@ inspired by [Carlos Icaza](http://www.carlosicaza.com/2014/07/16/swift-folder-ic
 
 ---
 
-###Current Imagees###
+###Current Images###
 
 #####Swift#####
 
